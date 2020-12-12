@@ -1,3 +1,25 @@
+# Site wide configuration
 theme: jekyll-theme-dinky
 title: Welcome to Zia's homepage
 description: Confessions of a sluggish mind
+logo: # filename of a logo image that has been placed into your images directory
+locale: en_US
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Zia Hasan
+  avatar: bio-photo.jpg
+  bio: "I finished my PhD and MASc in the Department of Electrical and Computer Engineering at University of British Columbia under the supervision of Professor Vijay K. Bhargava in early 2013 and 2008 respectively. Prior to that, I received my undergraduate degree from Indian Institute of Technology, Kanpur in 2005 in Electrical Engineering. With all those "Electrical" terms in my academic degrees, I might have serious trouble remembering simple things like Ohm's Law ;). That being said, my interests lie everywhere and focus is somewhere else every year. I currently don't manage this page actively, so the information here is probably not most up-to-date. Please connect me on Linkedin instead to see what I am doing. Here is a link of my Google Scholar Profile."
+  email: ziaul.hasan@gmail.com
+  # Do not include the @ symbol in your Twitter username
+#   twitter: laderast
+  linkedin: zia-hasan
+  github: zia-hasan
+#   orcid: # ID Number (ex. 0000-0000-0000-0000)
+#   researchgate: #username
+#   mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: #id
